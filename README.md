@@ -52,7 +52,7 @@ git log
 ## プッシュテスト２
 個人アカウントでプッシュしてしまっていたためつばさのアカウントに切り替えました
 ```bash
-git config user.email "okada.t+dev@world-wing.com"
+git config user.email "okada.t@example.com"
 ```
 ```bash
 git config user.name "OkadaTakumi"
@@ -144,7 +144,7 @@ git config --global --local --list "
 グローバル設定の変更
 ```bash
 git config --global user.name "okada-t-www"
-git config --global user.email "okada.t+dev@world-wing.com"
+git config --global user.email "okada.t@example.com"
 ```
 
 ## Pull request概要
